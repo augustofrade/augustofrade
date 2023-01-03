@@ -1,4 +1,3 @@
 ### Hello! 😄👋
 
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on React projects
+- 🌱 I’m currently learning NodeJS and Typescript
