@@ -38,4 +38,4 @@ A **Firefox browser extension** that filters and blocks selected content on Redd
 
 The extension is published through the Firefox Add-ons store.
 
-[Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/red-it/)
+[Repository](https://github.com/augustofrade/red-it-extension) · [Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/red-it/)
